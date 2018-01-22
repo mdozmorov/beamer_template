@@ -1,0 +1,88 @@
+---
+title: ""
+author: "Mikhail Dozmorov"
+date: ""
+output:
+  beamer_presentation:
+    colortheme: seahorse
+    fig_caption: no
+    fig_height: 6
+    fig_width: 7
+    fonttheme: structurebold
+    theme: boxes
+---
+
+# Section title
+
+## Slide title
+
+\includegraphics[height=70px]{img/bioinfo3.png}
+<!--https://bioinformatics.uconn.edu/wp-content/uploads/sites/15/2013/06/bioinfo3.png-->
+
+## Slide with bulletpoints
+
+- DNA
+
+- mRNA
+- miRNA
+
+- Protein
+
+## Slide with table
+
+<!--Generate tables with https://www.tablesgenerator.com/markdown_tables-->
+
+111     222         333
+---- ------- ----------
+aaa     bbb         ccc
+
+## Slide with code formatting
+
+`monospace formatting`
+
+```
+a <- b
+```
+
+    four spaces also make text monospace
+
+## Two columns
+
+\begin{columns}
+\begin{column}{0.48\textwidth}
+
+1) This slide has two columns
+
+2) But not bulletpoints
+
+\end{column}
+\begin{column}{0.48\textwidth}
+
+\includegraphics[height=100px]{img/code.png}
+
+\end{column}
+\end{columns}
+
+## Font sizes
+
+\tiny Tiny
+
+\scriptsize Not so tiny
+
+\footnotesize Footnote size
+
+\small Small
+
+\normalsize Default
+
+\large Large
+
+\Large Larger
+
+\LARGE Largest
+
+## Font sizes
+
+\huge Huge
+
+\Huge More huge
