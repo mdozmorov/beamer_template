@@ -1,15 +1,17 @@
 ---
-title: ""
+title: "Title"
 author: "Mikhail Dozmorov"
-date: ""
+date: "Spring 2018"
 output:
   beamer_presentation:
-    colortheme: seahorse
+    # colortheme: seahorse
+    colortheme: dolphin
     fig_caption: no
     fig_height: 6
     fig_width: 7
     fonttheme: structurebold
-    theme: boxes
+    # theme: boxes
+    theme: AnnArbor
 ---
 
 # Section title
