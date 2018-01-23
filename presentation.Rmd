@@ -18,7 +18,9 @@ output:
 
 ## Slide title
 
+\begin{center}
 \includegraphics[height=70px]{img/bioinfo3.png}
+\end{center}
 <!--https://bioinformatics.uconn.edu/wp-content/uploads/sites/15/2013/06/bioinfo3.png-->
 
 ## Slide with bulletpoints
