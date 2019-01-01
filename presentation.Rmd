@@ -19,7 +19,7 @@ output:
 ## Slide title
 
 \begin{center}
-\includegraphics[height=70px]{img/bioinfo3.png}
+\includegraphics[height=170px]{img/bioinfo3.png}
 \end{center}
 <!--https://bioinformatics.uconn.edu/wp-content/uploads/sites/15/2013/06/bioinfo3.png-->
 
@@ -55,9 +55,16 @@ a <- b
 \begin{columns}
 \begin{column}{0.48\textwidth}
 
-1) This slide has two columns
+This slide has two columns
 
-2) But not bulletpoints
+\bigskip
+
+Can add an extra line
+
+\begin{itemize}
+  \item And, bulletpoints
+  \item One after another
+\end{itemize}
 
 \end{column}
 \begin{column}{0.48\textwidth}
