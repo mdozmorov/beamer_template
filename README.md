@@ -1,3 +1,5 @@
+See [MDtemplate](https://github.com/mdozmorov/MDtemplate) for the latest templates
+
 This presentation is a beamer template for RMarkdown class presentation
 
 More Beamer themes: http://deic.uab.es/~iblanes/beamer_gallery/
